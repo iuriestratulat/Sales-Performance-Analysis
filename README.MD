@@ -3,7 +3,7 @@
 **Objective:** Engineered an end-to-end operational Business Intelligence solution analyzing an e-commerce ecosystem across 9 relational datasets (Olist Brazil), driving data-backed optimization for sales cycles, supply chain logistics, and customer retention.
 
 ### 🖼️ Dashboard Preview
-![Dashboard Overview](Sales_Performance_Analysis/screenshots/Sales_Performance_Analysis_2.jpg)
+![Dashboard Overview](screenshots/Sales_Performance_Analysis_2.jpg)
 
 ### 🧩 Technical Features & Engineering Architecture
 * **Advanced ETL & Data Ingestion (Power Query):** Processed and cleaned 9 complex relational CSV datasets. Standardized data types, handled missing categorical variables, and built structural pipelines to track progressive order states (`orders_created` to `orders_delivered`).
@@ -21,4 +21,4 @@
 ### 📊 Project Execution & Metrics
 * **Development Workflow:** Requirements Gathering ➔ Power Query ETL & Normalization ➔ Relational Star Schema Design ➔ Advanced DAX Measure Groups ➔ UX/UI Testing.
 
-👉 **[Click here to browse project files](Sales Performance Analysis/screenshots/)**
+👉 **[Click here to browse project files](screenshots/)**
